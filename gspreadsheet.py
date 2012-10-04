@@ -1,6 +1,5 @@
 import collections
 import datetime
-import getpass
 import numpy as np
 import string
 
